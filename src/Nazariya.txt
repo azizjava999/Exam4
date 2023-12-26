@@ -1,0 +1,5 @@
+1) Volatile o'zgaruvchini qiymatini ma'lumotlar bazasiga borib kemasdan
+ kesh xotiradan oladi
+2) Race condition - Threadlar bir-birini ustiga chiqib ketishi ya'ni bitta ma'lumotga ikkalovi bir vaqtda borib qolishi
+ bu javada muammo bo'lgan va bundan keyin "synchronized" kalit so'zi paydo bo'lgan u bitta thread ishini tugatgandan keyin
+ o'sha threadni bloklab qo'yadi.
